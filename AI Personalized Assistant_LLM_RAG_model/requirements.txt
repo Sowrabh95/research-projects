@@ -1,0 +1,10 @@
+streamlit
+dotenv
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langsmith
+fitz
+faiss-cpu
