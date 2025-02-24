@@ -1,0 +1,6 @@
+streamlit
+google.generativeai
+os
+PyPDF2
+dotenv
+json
